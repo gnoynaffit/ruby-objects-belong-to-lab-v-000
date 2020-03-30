@@ -1,3 +1,3 @@
 class Artist
-  #attr_accessor
-end 
+  attr_accessor :name
+end
